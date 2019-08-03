@@ -5,7 +5,7 @@
 	- :white_check_mark: Round Robin
 - Searching Algorithms
 	- :heavy_check_mark: Linear Search
-	- :white_check_mark: Binary Search
+	- :heavy_check_mark: Binary Search
 	- :white_check_mark: Jump Search
 	- :white_check_mark: Interpolation Search
 	- :white_check_mark: Expotential Search
