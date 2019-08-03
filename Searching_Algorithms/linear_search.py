@@ -1,3 +1,17 @@
+'''
+	Filename: linear_search.py
+
+	Algo Description: Binary search is a search algorithm for
+	finding an element within a list. It sequentially checks each element of the list
+	until a match is found or the whole list has been searched
+	
+	Worst-case space complexity‎: ‎O(1) iterative
+	Worst-case performance‎: ‎O(n)
+	Best-case performance‎: ‎O(1)
+	Average performance‎: ‎O(n)
+
+'''
+
 def linearSearch(data, sItem):
 	count = 0
 	found = 0
